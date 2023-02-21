@@ -1,0 +1,1 @@
+Centro Pokemon de pueblo paleta ubicado en la ruta 27. Esto es una prueba para probar que tan bien funciona el txt box y poder hacer debbugging y dejarlo set.
