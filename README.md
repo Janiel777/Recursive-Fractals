@@ -7,8 +7,8 @@ This project is a great opportunity to learn about programming, math, and fracta
 
 ## Fractals implemented
 ### Tree
-https://user-images.githubusercontent.com/95184925/220462033-1de7af99-d123-404a-b3be-054611b4641b.mp4
-### Dragon Curve
-https://user-images.githubusercontent.com/95184925/220462121-2842aa27-ab0b-441a-a86a-067cecb0285b.mp4
+
+### Dragon curve
+
 ### Sierpinski triangle
-https://user-images.githubusercontent.com/95184925/220462185-fd993e46-6531-4442-83ef-6229118ffad5.mp4
+
